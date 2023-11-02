@@ -1,0 +1,81 @@
+.profile{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border-top: 7px solid red;
+    border-right: 7px solid blue;
+    border-bottom: 7px solid green;
+    border-left: 7px solid orange;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 50px;
+    font-weight: 400;
+
+}
+.signup-left{
+    width: 250px;
+    height: 370px;
+    border-radius: 15%;
+    border: 3px solid gray;
+    margin-top: 9px;
+    background-image: url(/assets/image/user-profile-login-avatar-heroes-user-blue-icons-circle-symbol-logo\ copy.png);
+
+    
+}
+
+input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-top: 40px;
+    margin-left: 10px;
+    border-color: cornflowerblue;
+    padding: 7px;
+}
+label{
+    color: gray;
+}
+button{
+    border: none;
+    background-color: cornflowerblue;
+    color: #fff;
+    padding: 11px 100px;
+    border-radius: 15px;
+    margin-left: 6px;
+}
+a{
+    color: cornflowerblue;
+    margin-left: 70px
+}
+.signup-right{
+    width: 250px;
+    height: 370px;
+    border-radius: 15%;
+    border: 3px solid black;
+    margin-top: 10px;
+    background-color: cornflowerblue;
+}
+h1{
+    color: #fff;
+    margin-left: 50px;
+}
+.flag-top{
+    width: 500px;
+    height: 100px;
+    background-color: blue;
+    margin-top: 70px;
+}
+.flag-center{
+    width: 500px;
+    height: 100px;
+    background-color: red;
+
+}
+.flag-bottom{
+    width: 500px;
+    height: 100px;
+    background-color: green;
+}
